@@ -2,9 +2,9 @@
 using System;
 
 using System.IO;
-using Tyuiu.SavitskyDA.Sprint5.Task1.V21.Lib;
+using Tyuiu.PoznyakIA.Sprint5.Task1.V21.Lib;
 
-namespace Tyuiu.SavitskyDA.Sprint5.Task1.V21.Test
+namespace Tyuiu.PoznyakIA.Sprint5.Task1.V21.Test
 {
     [TestClass]
     public class DataServiceTest
